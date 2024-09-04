@@ -1,8 +1,10 @@
-[{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "app.netlify.creative_narwhal_622e1f.twa",
-        "sha256_cert_fingerprints": ["8E:BE:DC:E3:91:FB:F5:BF:FD:56:F5:57:14:64:CC:D2:0E:E1:76:20:8A:A9:30:3F:8E:97:AF:18:9D:D2:29:86"]
-      }
-    }]
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "app.netlify.creative_narwhal_622e1f.twa",
+      "sha256_cert_fingerprints": ["7E:FB:72:C0:2D:CF:EE:82:09:32:2E:13:C0:32:4D:1E:98:36:D2:54:29:C7:A0:D8:A9:A3:1A:D8:04:14:85:AE"]
+    }
+  }
+]
