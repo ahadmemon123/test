@@ -2,7 +2,7 @@
       "relation": ["delegate_permission/common.handle_all_urls"],
       "target": {
         "namespace": "android_app",
-        "package_name": "app.netlify.app_66d86241ef8b87b9aa78bc01__dapper_shortbread_6d1b01.twa",
-        "sha256_cert_fingerprints": ["80:C5:5A:6A:F6:B5:68:10:F7:18:F0:74:8F:AE:1D:A5:38:DE:AD:57:E4:56:D8:0D:AE:CF:AB:20:70:6A:D5:7A"]
+        "package_name": "app.netlify.creative_narwhal_622e1f.twa",
+        "sha256_cert_fingerprints": ["CE:2D:D3:89:A2:08:73:FC:3A:7D:AA:4A:71:E5:16:AB:92:43:E5:3C:FC:DE:64:55:3F:DB:C1:AD:63:68:CC:B9"]
       }
     }]
